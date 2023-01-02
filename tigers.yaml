@@ -12,3 +12,4 @@ members:
 - reset
 
 fetch: this
+fetch2: this2
