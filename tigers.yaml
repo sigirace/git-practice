@@ -13,3 +13,5 @@ members:
 
 fetch: this
 fetch2: this2
+
+new: fetch
